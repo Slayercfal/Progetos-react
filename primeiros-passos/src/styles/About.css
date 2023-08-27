@@ -1,0 +1,37 @@
+
+
+.Sobre{
+    
+    display: flex;
+    width: 100%;
+    margin: 0px auto;
+    justify-content: space-between;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+.infos{
+    width: 600px;
+}
+.infos h1,h2{
+    margin-bottom: 50px;
+    font-size: 52px;
+    margin-left: 10%;
+}
+
+.infos p{
+    font-size: 26px;
+    margin-left: 10%;
+    padding-bottom: 10px;
+}
+
+.image-me{
+    margin-right: 10%;
+}
+.image-me img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    border: 2px solid black;
+    
+}

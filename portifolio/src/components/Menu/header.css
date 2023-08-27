@@ -1,0 +1,38 @@
+
+
+.container-menu{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    height: 50px;
+
+    background-color: #302c24;
+
+}
+
+.container-menu a{
+    margin-right: 20px;
+   
+
+}
+
+.windows{
+    display: flex;
+    margin-left: 20px;
+}
+
+
+.horas{
+    position: absolute;
+    right: 20px;
+
+}
+
+.horas span{
+    font-size: 16px;
+    color: white;
+    
+}

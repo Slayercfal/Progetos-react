@@ -1,0 +1,35 @@
+
+
+.container-home{
+    background-image: url(funto2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: calc(100vh - 50px);
+}
+
+.contatos-info{
+
+    margin-bottom: 20px;
+
+}
+
+a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-decoration: none;
+}
+
+.infos{
+    position: absolute;
+    left: 3%;
+    top: 2%;
+    
+}
+
+.infos p{
+    font-size: 14px;
+}
